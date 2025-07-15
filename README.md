@@ -77,8 +77,8 @@ Develop SQL-based analytics to deliver insights on:
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
-│   ├── source_crm/                         # Scripts for extracting and loading raw data
-│   ├── source_erp/                         # Scripts for cleaning and transforming data
+│   ├── source_crm/                     
+│   ├── source_erp/                     
 │
 ├── docs/                               # Project documentation and architecture details
 │   ├── etl.drawio                      # Draw.io file shows all different techniquies and methods of ETL
